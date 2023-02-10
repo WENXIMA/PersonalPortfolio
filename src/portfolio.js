@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Wenxi Ma Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://wenximaportfolio.netlify.app",
   },
 };
 
@@ -25,9 +25,9 @@ const greeting = {
   subTitle:
     "I exhibit my passionate commitment to both front-end development and data analysis. I take pride in creating visually appealing websites and utilizing data analysis to uncover valuable insights and drive results.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+    "https://drive.google.com/file/d/1L_ibcUgWB6_LhfxFHE-S4EEPFwb-faAJ/view?usp=sharing",
+  portfolio_repository: "",
+  githubProfile: "https://github.com/WENXIMA",
 };
 
 const socialMediaLinks = [
